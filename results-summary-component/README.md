@@ -16,7 +16,7 @@ Because it was my first challenge on the mentor frontend, I had a little doubts 
 ##
 ##### ❓ - How can i test your component?
 
-It is possible to find the system running by the endpoint (on GitHub Pages): [Click here]();
+It is possible to find the system running by the endpoint (on GitHub Pages): [Click here](https://matheus-fsantos.github.io/frontend-mentor-challenges/results-summary-component/src/);
 
 
 ##
